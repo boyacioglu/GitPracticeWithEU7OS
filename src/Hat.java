@@ -4,5 +4,7 @@ public class Hat {
 
 
         System.out.println("Second line");
+
+        System.out.println("Third line of code");
     }
 }
